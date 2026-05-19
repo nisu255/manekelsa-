@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mane-Kelsa</string>
+    <string name="app_subtitle">Local Worker Directory</string>
+
+    <!-- Login -->
+    <string name="hint_name">Enter name</string>
+    <string name="hint_email">Enter email</string>
+    <string name="hint_password">Enter password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_anonymous">Continue as Guest</string>
+
+    <!-- Directory -->
+    <string name="my_status">My Status</string>
+    <string name="available_today">Available Today</string>
+    <string name="not_available">Not Available</string>
+    <string name="available_only">Available Only</string>
+
+    <!-- Profile -->
+    <string name="btn_save_profile">Save Profile</string>
+    <string name="btn_sign_out">Sign Out</string>
+
+    <!-- Bottom Nav -->
+    <string name="nav_directory">Directory</string>
+    <string name="nav_my_jobs">My Jobs</string>
+    <string name="nav_profile">Profile</string>
+</resources>

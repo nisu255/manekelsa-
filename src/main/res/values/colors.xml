@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark">#111111</color>
+    <color name="bg_card">#1E1E1E</color>
+    <color name="bg_card_border">#2A2A2A</color>
+    <color name="call_bg">#1A3D25</color>
+    <color name="gold">#E8C547</color>
+    <color name="available_green">#5BAD72</color>
+    <color name="available_green_bg">#1A3D25</color>
+    <color name="unavailable_red">#DA5B5B</color>
+    <color name="unavailable_red_bg">#3D1A1A</color>
+    <color name="text_primary">#F5F5F5</color>
+    <color name="text_secondary">#AAAAAA</color>
+    <color name="text_hint">#777777</color>
+    <color name="colorPrimary">#E8C547</color>
+    <color name="colorPrimaryVariant">#C8A030</color>
+    <color name="colorOnPrimary">#111111</color>
+    <color name="colorSecondary">#5BAD72</color>
+    <color name="colorOnSecondary">#111111</color>
+    <color name="colorSurface">#1E1E1E</color>
+    <color name="colorOnSurface">#F5F5F5</color>
+    <color name="colorBackground">#111111</color>
+    <color name="colorOnBackground">#F5F5F5</color>
+    <color name="colorError">#DA5B5B</color>
+    <color name="colorOnError">#111111</color>
+</resources>

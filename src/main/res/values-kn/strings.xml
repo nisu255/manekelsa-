@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ಮನೆ-ಕೆಲಸ</string>
+    <string name="app_subtitle">ಸ್ಥಳೀಯ ಕೆಲಸಗಾರರ ಡೈರೆಕ್ಟರಿ</string>
+
+    <!-- Login -->
+    <string name="hint_name">ನಿಮ್ಮ ಹೆಸರು</string>
+    <string name="hint_email">ಇಮೇಲ್</string>
+    <string name="hint_password">ಪಾಸ್‌ವರ್ಡ್</string>
+    <string name="btn_login">ಸೈನ್ ಇನ್</string>
+    <string name="btn_register">ನೋಂದಣಿ</string>
+    <string name="btn_anonymous">ಅತಿಥಿಯಾಗಿ ಮುಂದುವರಿಯಿರಿ</string>
+
+    <!-- Directory -->
+    <string name="my_status">ನನ್ನ ಸ್ಥಿತಿ</string>
+    <string name="available_today">ನಾನು ಇಂದು ಲಭ್ಯ ✅</string>
+    <string name="not_available">ಇಂದು ಲಭ್ಯವಿಲ್ಲ ❌</string>
+    <string name="available_only">ಲಭ್ಯ ಮಾತ್ರ</string>
+
+    <!-- Profile -->
+    <string name="btn_save_profile">ಕೆಲಸಗಾರರ ಪ್ರೊಫೈಲ್ ಉಳಿಸಿ</string>
+    <string name="btn_sign_out">ಸೈನ್ ಔಟ್</string>
+
+    <!-- Bottom Nav -->
+    <string name="nav_directory">ಡೈರೆಕ್ಟರಿ</string>
+    <string name="nav_my_jobs">ನನ್ನ ಕೆಲಸ</string>
+    <string name="nav_profile">ಪ್ರೊಫೈಲ್</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/loginFragment">
+
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="com.manekelsa.app.ui.auth.LoginFragment"
+        android:label="Login">
+        <action
+            android:id="@+id/action_loginFragment_to_directoryFragment"
+            app:destination="@id/directoryFragment"
+            app:popUpTo="@id/loginFragment"
+            app:popUpToInclusive="true" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/directoryFragment"
+        android:name="com.manekelsa.app.ui.directory.DirectoryFragment"
+        android:label="Directory" />
+
+    <fragment
+        android:id="@+id/myJobsFragment"
+        android:name="com.manekelsa.app.ui.myjobs.MyJobsFragment"
+        android:label="My Jobs" />
+
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.manekelsa.app.ui.profile.ProfileFragment"
+        android:label="Profile" />
+
+</navigation>
